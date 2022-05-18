@@ -130,7 +130,7 @@ struct MusicCellView: View {
             Color.purple
             
             
-            HStack {
+            HStack(alignment: .center) {
                 
                
              Image(image)
