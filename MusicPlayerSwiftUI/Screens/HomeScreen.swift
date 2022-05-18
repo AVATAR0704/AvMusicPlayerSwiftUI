@@ -125,7 +125,7 @@ struct MusicCellView: View {
     
     var body: some View {
        
-        ZStack {
+        ZStack(alignment: .center) {
             
             Color.purple
             
